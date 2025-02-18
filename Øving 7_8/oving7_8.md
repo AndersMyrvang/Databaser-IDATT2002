@@ -1,3 +1,8 @@
+**Dette dokumentet er et fellesarbeid, skrevet sammen med:**
+- chrbjen
+- Janbanan12
+
+
 # 1. Krav til innlevering
 
 ```
